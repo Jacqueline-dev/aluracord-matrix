@@ -1,5 +1,5 @@
 # aluracord-matrix
-Aluracord é um projeto criado na Imersão React.
+Aluracord Matrix
 
 ## Tecnologias usadas:
 
