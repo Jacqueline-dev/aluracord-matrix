@@ -21,7 +21,7 @@ Aluracord Matrix
 <a href="">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/jacqueline-dev" width="100px;" alt=""/>
  <br />
- <sub><b>Jacqueline Ferreira</b></sub></a> <a href="" title="Augecode"></a>
+ <sub><b>Jacqueline </b></sub></a> <a href="" title="Augecode"></a>
 
 
 Feito com 💜 por Jaqueline Ferreira 
